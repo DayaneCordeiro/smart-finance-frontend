@@ -1,0 +1,26 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    border-radius: 8px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 0;
+    margin-top: 150px;
+    background-color: #757575;
+}
+
+.card img {
+    border-radius: 8px 8px 0 0;
+    width: 300px;
+    height: 200px;
+}
+
+.card-link {
+    color: white;
+    background-color: #3D3939;
+    margin: 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
